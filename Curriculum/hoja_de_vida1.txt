@@ -1,0 +1,31 @@
+==============================================
+            HOJA DE VIDA
+==============================================
+
+DATOS PERSONALES:
+- Nombres: Alexander David
+- Apellidos: Cajamarca Garcia
+- Email: alexandergarcia215@outlook.com
+- Teléfono: 0962985693
+- Género: Masculino
+
+HOBBIES E INTERESES:
+- Leer
+- Deportes
+
+NIVEL DE INSTRUCCIÓN:
+- Bachiller
+
+EXPERIENCIA LABORAL:
+Mesero - 6 meses
+
+FORMACIÓN ACADÉMICA:
+- Institución: U.E Rafael Larrea
+  Título/Curso: Bachillerato Internacional
+  Año: 2021
+  Duración: 3 años
+
+==============================================
+Documento generado automáticamente
+Fecha: 02/07/2025 20:28:52
+==============================================
